@@ -21,8 +21,7 @@
 ### Табличный ML
 - Исследование влияния порога классификации и балансирования обучающей выборки на показатели качества розничного скоринга
 - Оптимизация физической формы акустического диполя
-
-### Разные учебные проекты
+- [Разные учебные проекты](https://github.com/Genn007/Genn007/blob/main/Misc_Ed_projects.md)
 
 <!--
 **Genn007/Genn007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
