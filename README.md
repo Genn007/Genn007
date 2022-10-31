@@ -13,7 +13,7 @@
 - [Целевое кодирование сезонной составляющей](https://github.com/Genn007/Time_Series_Forecasting_Issues/blob/main/TargetEncoding_in_TS_Rus.ipynb)
 - [Применение целевого кодирования для управления риском ликвидности](https://github.com/Genn007/Time_Series_Forecasting_Issues/blob/main/P10_v03.ipynb)
 - Прогнозирование исходящего траффика железнодорожных вагонов. Капитан команды. Победа в хакатоне (УрФУ, МИСИС, SkillFactory)
-- [Распознавание жестов](https://github.com/Genn007/OMG_Recognition) на основе неинвазивного мониторинга кожных покровов - хакатон Моторика. 
+- [Распознавание жестов](https://github.com/Genn007/OMG_Recognition) на основе неинвазивного мониторинга кожных покровов - хакатон Моторика, второе место в общем итоговом зачете. 
 
 ### Машинное зрение (CV)
 - [Задача классификации изображений](https://github.com/Genn007/FvF_image_classification)
