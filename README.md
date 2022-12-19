@@ -24,6 +24,9 @@
 - Оптимизация физической формы акустического диполя
 - [Разные учебные проекты](https://github.com/Genn007/Genn007/blob/main/Misc_Ed_projects.md)
 
+### Рекомендательные системы
+Различные небольшие проекты исследования алгоритмов построения рекомендательных систем
+
 <!--
 **Genn007/Genn007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
