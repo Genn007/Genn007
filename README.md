@@ -17,6 +17,7 @@
 
 ### Машинное зрение (CV)
 - [Задача классификации изображений](https://github.com/Genn007/FvF_image_classification)
+- [Задачи выделения объектов на изображеии](https://github.com/Genn007/CV_Segmentation_Detection/tree/main)
 
 ### Табличный ML
 - Исследование влияния порога классификации и балансирования обучающей выборки на показатели качества [розничного скоринга](https://github.com/Genn007/P04_CreditScoring)
