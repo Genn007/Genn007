@@ -29,6 +29,9 @@
 Различные небольшие проекты исследования алгоритмов построения рекомендательных систем:
 - [Датасет GoodreadBooks](https://github.com/Genn007/RecSystems/tree/main/GoodreadBooks)
 
+### Технические задания и концепции
+- [Построение личного корпуса знаний Zettelkasten на базе Obsidian](https://github.com/Genn007/Specs/blob/main/231202-Obsidian-Zettelkasten-Concept.md) 
+
 <!--
 **Genn007/Genn007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
