@@ -24,6 +24,7 @@
 - Исследование алгоритмов [целевого кодирования](https://github.com/Genn007/P05_CarPrices)
 - Оптимизация физической формы акустического диполя
 - [Разные учебные проекты](https://github.com/Genn007/Genn007/blob/main/Misc_Ed_projects.md)
+- [One Billion Row Chalenge](https://github.com/Genn007/OneBillionRowChallenge)
 
 ### Рекомендательные системы
 Различные небольшие проекты исследования алгоритмов построения рекомендательных систем:
